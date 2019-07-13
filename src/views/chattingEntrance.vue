@@ -69,6 +69,7 @@ export default {
     background-color: rgba(0,0,0,0.4);
     position: relative;
     .chatting-pop {
+        width: 100%;
         position: absolute;
         bottom: 0;
     }
